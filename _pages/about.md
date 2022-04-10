@@ -1,9 +1,14 @@
 ---
 layout: about
-title: about
+title: Zhang Lab of Artificial Intelligence in Medicine
 permalink: /
 nav_rank: 1
 subtitle: <a href='https://www.cedars-sinai.edu/research/areas/artificial-intelligence-medicine.html'>Division of Artificial Intelligence in Medicine at Cedars-Sinai</a>. 127 S. San Vicente Blvd. Los Angeles, CA 90048
+
+profile:
+  align: right
+  image: cedars-sinai-skybridge.jpg
+  caption: Pavilion, Cedars-Sinai Medical Center
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -15,16 +20,5 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
-<!--
-PUT THIS BETWEEN "subtitle" AND "news" FOR DISPLAY
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
--->
 
 
