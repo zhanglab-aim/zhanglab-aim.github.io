@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Zhang Lab of Artificial Intelligence in Medicine
+title: home
 permalink: /
 nav_rank: 1
 subtitle: <a href='https://www.cedars-sinai.edu/research/areas/artificial-intelligence-medicine.html'>Division of Artificial Intelligence in Medicine at Cedars-Sinai</a>. 127 S. San Vicente Blvd. Los Angeles, CA 90048

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Misc
 group_rank: 3
@@ -8,16 +8,15 @@ team_frontpage: true
 title: FeiFei the shepherd
 description: lab moscot
 lastname: Zhang
-publications: 'author^=*'
 
 teaser: >
-    woof woof
+    Woof-woof!
 
 profile:
     name: FeiFei
     align: right
     image: members/feifei-profile.jpg
-    role: lab mascot
+    position: Lab Mascot
     website: https://www.instagram.com/feifeigsd/
     address: >
         department<br />

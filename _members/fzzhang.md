@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Faculty
 group_rank: 1
@@ -17,7 +17,7 @@ profile:
     name: Frank Zijun Zhang
     align: right
     image: members/fzz-profile.jpg
-    role: PI
+    position: Principal Investigator
     email: zj.z@ucla.edu
     website: https://zj-zhang.github.io/
     twitter: ZijunZhang_
