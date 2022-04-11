@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: CROTON
+description: CRISPR Outcomes Through cONvolutional neural networks
 img:
-importance: 3
-category: fun
+importance: 4
+category: machine learning
 ---
 
 Every project has a beautiful feature showcase page.

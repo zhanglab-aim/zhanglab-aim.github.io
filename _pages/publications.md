@@ -7,6 +7,7 @@ nav: true
 nav_rank: 4
 ---
 <!-- _pages/publications.md -->
+
 <div class="publications">
 
 {%- for y in page.years %}

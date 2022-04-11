@@ -4,7 +4,7 @@ title: software
 permalink: /software/
 nav: true
 nav_rank: 5
-display_categories: [work, fun]
+display_categories: [machine learning, statistical analysis]
 horizontal: false
 ---
 

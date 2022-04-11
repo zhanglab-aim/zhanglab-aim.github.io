@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: DARTS DNN
+description: Deep-learning augmented RNA-seq analysis of transcript splicing - deep neural network
+img: assets/img/3.jpg
+importance: 2
+category: machine learning
 ---
 
 Every project has a beautiful feature showcase page.

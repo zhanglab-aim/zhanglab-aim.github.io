@@ -15,10 +15,32 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the Zhang Lab of Artificial Intelligence in Medicine! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our lab uses statistical learning and deep learning as the unifying language to communicate 
+interdisciplinary research areas in computational biology. 
+Currently the primary research interests include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. **Automated Deep Learning (AutoDL)-powered Interpretation of Genetic Variations** 
+
+    We develop <a href="https://www.nature.com/articles/s42256-021-00316-z" target=_blank>AutoDL</a> techniques to accommodate the rapid biotechnology
+    development with modern deep learning. These automated, data-driven models help us
+    understand the causal effects of genetic variations in various contexts, including 
+    <a href="https://www.nature.com/articles/s42256-021-00316-z" target=_blank>epigenetics</a>, 
+    <a href="#">transcription</a>, 
+    <a href="https://academic.oup.com/bioinformatics/article/37/Supplement_1/i342/6319668" target=_blank>genome editing</a>, 
+    and in tumors.
+    In the long term, we hope our methods will democratize deep learning and thereby accelerate scientific discoveries in biomedicine.
+
+2. **Post-transcriptional and Transcriptional Regulatory Network**
+
+    We also study the molecular mechanisms that mediate the genetic effects to phenotypical variations and disease
+    prognostics. Enabled by high-throughput sequencing technologies, we characterize the variation of 
+    <a href="#" target=_blank>RNA expression</a>, 
+    <a href="https://www.nature.com/articles/s41592-019-0351-9" target=_blank>RNA splicing</a>, 
+    <a href="https://academic.oup.com/nar/article/45/16/9260/4077049" target=_blank>RNA-protein interactions</a>,
+    and 
+    <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1394-4" target=_blank>RNA modifications</a> 
+    in health and disease by quantitative, statistical and deep learning approaches.
 
 

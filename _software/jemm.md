@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: JEMM
+description: Joint-exon measurement model
+img: assets/img/1.jpg
+importance: 3
+category: statistical analysis
 ---
 
 Every project has a beautiful feature showcase page.
