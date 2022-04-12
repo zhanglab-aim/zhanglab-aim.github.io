@@ -1,10 +1,10 @@
 ---
 layout: page
 title: DARTS BHT
-description: Deep-learning augmented RNA-seq analysis of transcript splicing - Bayesian hypothesis testing
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+description: Bayesian hypothesis testing for transcript splicing 
+img: 
+redirect: https://darts-bht.readthedocs.io/en/latest/
+importance: 1
 category: statistical analysis
 ---
 

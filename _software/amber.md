@@ -1,9 +1,10 @@
 ---
 layout: page
 title: AMBER
-description: a toolkit for designing high-performance neural network models
-img: assets/img/12.jpg
+description: A toolkit for designing high-performance neural networks
+img: assets/img/software/AMBER-logo.small.png
 importance: 1
+redirect: https://github.com/zj-zhang/AMBER
 category: machine learning
 ---
 

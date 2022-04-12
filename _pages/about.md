@@ -7,7 +7,7 @@ subtitle: <a href='https://www.cedars-sinai.edu/research/areas/artificial-intell
 
 profile:
   align: right
-  image: cedars-sinai-skybridge.jpg
+  image: about/cedars-sinai-skybridge.jpg
   caption: Pavilion, Cedars-Sinai Medical Center
 
 news: true  # includes a list of news items

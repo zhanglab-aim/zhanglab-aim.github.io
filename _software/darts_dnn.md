@@ -1,8 +1,9 @@
 ---
 layout: page
 title: DARTS DNN
-description: Deep-learning augmented RNA-seq analysis of transcript splicing - deep neural network
-img: assets/img/3.jpg
+description: Deep-learning augmented RNA-seq analysis of transcript splicing
+img: 
+redirect: https://darts-dnn.readthedocs.io/en/latest/
 importance: 2
 category: machine learning
 ---

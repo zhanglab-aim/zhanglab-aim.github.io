@@ -2,8 +2,9 @@
 layout: page
 title: CROTON
 description: CRISPR Outcomes Through cONvolutional neural networks
-img:
-importance: 4
+img: assets/img/software/CROTON-logo.small.png
+redirect: https://github.com/vli31/CROTON
+importance: 2
 category: machine learning
 ---
 

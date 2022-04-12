@@ -5,16 +5,16 @@ title: research
 nav: true
 nav_rank: 3
 ---
+<a id="toc"></a>
 
 Our lab uses statistical learning and deep learning as the unifying language to communicate 
 interdisciplinary research areas in computational biology. 
 The overarching goal of our research is to enable precision medicine using automated deep learning approaches.
 
-<a id="toc"></a>
 #### Primary Research Interests:
 
 1. [Automated Deep Learning (AutoDL)-powered Interpretation of Genetic Variations](#sec-1) <br>
-    1.1 [Novel Method Development](#sec-1-1) <br>
+    1.1 [Novel AutoDL Method Development](#sec-1-1) <br>
     1.2 [Application to Genomics](#sec-1-2)
 2. [Post-transcriptional and Transcriptional Regulatory Networks](#sec-2) <br>
     2.1 [RNA Splicing and Processing](#sec-2-1) <br>
@@ -34,9 +34,9 @@ Using AutoDL, we aim to build task-specific complex computation systems, on the 
 architectures, to model various genetic and molecular variations, and draw reliable and interpretable inferences for
 knowledge discovery and actionable guidelines in biomedicine.
 
-<div class="row">
+<div class="row justify-content-md-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research/amber-fig1.png" title="AMBER workflow" class="img-fluid rounded z-depth-0" %}
+        {% include figure.html path="assets/img/research/amber-fig1.small.png" title="AMBER workflow" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption"> <b>Figure 1. Illustration of AMBER workflow.</b>
@@ -47,16 +47,16 @@ Taking the optimal architecture, AMBER performs downstream functional analyses.
 </div>
 
 <a id="sec-1-1"></a>
-##### 1.1 Novel Method Development
+##### 1.1 Novel AutoDL Method Development
     
 We develop <a href="https://www.nature.com/articles/s42256-021-00316-z" target=_blank>AutoDL</a> techniques to accommodate the rapid biotechnology
 development with modern deep learning. 
 
 In the long term, we hope our methods will democratize deep learning and thereby accelerate scientific discoveries in biomedicine.
 
-*Related publications*:
+*Related publications:*
 - [An automated framework for efficiently designing deep convolutional neural networks in genomics](https://www.nature.com/articles/s42256-021-00316-z)
-- [AMBIENT: Accelerated Convolutional Neural Network Architecture Search for Regulatory Genomics](https://www.biorxiv.org/content/10.1101/2021.02.25.432960v1.abstract)
+- [AMBIENT: Accelerated convolutional neural network architecture search for regulatory genomics](https://www.biorxiv.org/content/10.1101/2021.02.25.432960v1.abstract)
 
 <a id="sec-1-2"></a>
 ##### 1.2 Application to Genomics
@@ -68,7 +68,7 @@ understand the causal effects of genetic variations in various contexts, includi
 - <a href="https://academic.oup.com/bioinformatics/article/37/Supplement_1/i342/6319668" target=_blank>genome editing</a>
 - tumor
 
-*Related publications*:
+*Related publications:*
 - [CROTON: an automated and variant-aware deep learning framework for predicting CRISPR/Cas9 editing outcomes](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i342/6319668)
 
 [Back to Top](#toc)
@@ -114,7 +114,7 @@ We seek to systematically investigate RNA molecular variations
 (gene expression, alternative splicing, RNA modification, protein-RNA interactions, etc.), genetic variations, and their crosstalks 
 in health and disease.
 
-*Related publications*:
+*Related publications:*
 - [Deep-learning augmented RNA-seq analysis of transcript splicing](https://www.nature.com/articles/s41592-019-0351-9)
 - [CLIP-seq analysis of multi-mapped reads discovers novel functional RNA regulatory sites in the human transcriptome](https://academic.oup.com/nar/article/45/16/9260/4077049)
 
@@ -128,7 +128,9 @@ of molecular variations.
 We use both robust statistical learning and automated interpretable deep learning methods to understand the functional 
 importance of RNA processing events, subsequently deploying them as biomarkers for disesae prognostics.
 
-*Related publications*:
+*Related publications:*
+- [Longitudinal analysis of RNA splicing dynamics in SARS-CoV-2 infection reveals robust predictive biomarkers](#)
+- [Pre-infection antiviral innate immunity contributes to sex differences in SARS-CoV-2 infection](#)
 - [Cleft lip and cleft palate in Esrp1 knockout mice is associated with alterations in epithelial-mesenchymal crosstalk](https://journals.biologists.com/dev/article/147/21/dev187369/226295/Cleft-lip-and-cleft-palate-in-Esrp1-knockout-mice)
 
 
