@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome to the Zhang Lab of Artificial Intelligence in Medicine! 
 
 Our lab uses statistical learning and deep learning as the unifying language to communicate 
-interdisciplinary research areas in computational biology. 
+across research areas in computational biology. 
 Currently the primary research interests include:
 
 1. **Automated Deep Learning (AutoDL)-powered Interpretation of Genetic Variations** 

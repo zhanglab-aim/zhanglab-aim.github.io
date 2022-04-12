@@ -32,11 +32,11 @@ profile:
 I am an incoming Assistant Professor in the Division of Artificial Intelligence in Medicine at the Cedars-Sinai Medical 
 Center (starting in the Fall of 2022). 
 
-I enjoy exploring the intellectual unknowns with talented next generations of scientists, thus a professorship is a 
-perfect job for me. Techinically, I am a methodology person - I like to build things, and computer programming has been my
-favorite "artisans workshop".  Levearing the computational power of artificial intelligence, we are lucky to live and witness
-a new era where computations and biotechnologies are growing exponentially, and the opportunies of actionable clinical 
-predictions and precision biomedicine are at the dawn of computation-driven scentific discoveries.
+I enjoy exploring the uncharted areas with talented next generations of scientists. 
+Technically, I am a methodology person - I like to build things, and computer programming has been my
+favorite "artisans workshop".  Leveraging the computational power of artificial intelligence, we are lucky to live and witness
+a new era where computations and biotechnologies are growing exponentially, and the opportunities of actionable clinical 
+predictions and precision biomedicine are at the dawn of computation-driven scientific discoveries.
 
 Currently I am a Flatiron Research fellow with <a href="https://function.princeton.edu/" target="_blank">Dr. Olga Troyanskaya</a> 
 at Princeton University/Simons Foundation. I obtained my Ph.D. in Bioinformatics with <a href="https://xinglab.org/" target="_blank">Dr. Yi Xing</a> at UCLA, 
