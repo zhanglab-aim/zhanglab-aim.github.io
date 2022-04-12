@@ -3,8 +3,8 @@ layout: page
 title: CLAM
 description: CLIP-seq analysis of multi-mapped reads
 img:
-redirct: https://github.com/Xinglab/CLAM
-importance: 3
+redirect: https://github.com/Xinglab/CLAM
+importsance: 3
 category: statistical analysis
 ---
 
