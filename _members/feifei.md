@@ -6,7 +6,7 @@ group_rank: 3
 team_frontpage: true
 
 title: FeiFei the shepherd
-description: lab moscot
+description: lab mascot
 lastname: Zhang
 
 teaser: >

@@ -20,9 +20,7 @@ profile:
     position: Principal Investigator
     email: zj.z@ucla.edu
     website: https://zj-zhang.github.io/
-    twitter: ZijunZhang_
     github: zj-zhang
-    orcid: 0000-0003-2016-8014
     address: >
         Division of Artificial Intelligence in Medicine<br />
         Cedars-Sinai Medical Center<br />
