@@ -1,11 +1,11 @@
 ---
 layout: member
 inline: false
-group: Members
-group_rank: 2
+group: Alumni
+group_rank: 5
 team_frontpage: true
 
-title: Victoria Li
+title: Li, Victoria R
 description:
 lastname: Li
 publications: 'author^=*Victoria'

@@ -4,7 +4,7 @@ permalink: /join
 title: join
 nav: true
 nav_rank: 6
-contact: zj.z@ucla.edu
+contact: zijun.zhang@cshs.org
 ---
 
 We are looking for motivated students and staff scientists at all levels with interests in 
@@ -19,7 +19,7 @@ compete for national science competitions, such as
 [International Science and Engineering Fair (ISEF)](https://www.societyforscience.org/isef/).
 -->
 
-**Open Positions (Starting Date in September 2022):**
+**Open Positions:**
 - [Postdoctoral Fellow](#postdoc)
 - [Data Scientist](#data-scientist)
 - [Undergraduate Student](#undergraduate-student)

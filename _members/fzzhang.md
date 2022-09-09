@@ -5,20 +5,20 @@ group: Faculty
 group_rank: 1
 team_frontpage: true
 
-title: Frank Zijun Zhang, PhD
+title: Zhang, Zijun Frank, PhD
 description: Principal Investigator
 lastname: Zhang
 publications: 'author^=*Zhang'
 
 teaser: >
-    Incoming Reseach Scientist I/Assistant Professor at Cedars-Sinai.
+    Faculty of AI in Medicine at Cedars-Sinai.
 
 profile:
-    name: Dr. Frank Zijun Zhang
+    name: Zijun Zhang, PhD
     align: right
     image: members/fzz-profile.jpg
     position: Principal Investigator
-    email: zj.z@ucla.edu
+    email: zijun.zhang@cshs.org
     website: https://zj-zhang.github.io/
     github: zj-zhang
     address: >
@@ -27,8 +27,8 @@ profile:
         Los Angeles, CA 90048
 ---
 
-I am an incoming Assistant Professor in the Division of Artificial Intelligence in Medicine at the Cedars-Sinai Medical 
-Center (starting in the Fall of 2022). 
+I am a faculty member in the Division of Artificial Intelligence in Medicine at the Cedars-Sinai Medical 
+Center. 
 
 I enjoy exploring the uncharted areas with talented next generations of scientists. 
 Technically, I am a methodology person - I like to build things, and computer programming has been my
@@ -36,7 +36,7 @@ favorite "artisans workshop".  Leveraging the computational power of artificial 
 a new era where computations and biotechnologies are growing exponentially, and the opportunities of actionable clinical 
 predictions and precision biomedicine are at the dawn of computation-driven scientific discoveries.
 
-Currently I am a Flatiron Research fellow with <a href="https://function.princeton.edu/" target="_blank">Dr. Olga Troyanskaya</a> 
+Previously, I am a Flatiron Research fellow with <a href="https://function.princeton.edu/" target="_blank">Dr. Olga Troyanskaya</a> 
 at Princeton University/Simons Foundation. I obtained my Ph.D. in Bioinformatics with <a href="https://xinglab.org/" target="_blank">Dr. Yi Xing</a> at UCLA, 
 with research focus on elucidating the regulatory basis of human transcriptomes. 
 While at UCLA, I also pursued a Master's degree in Statistics with <a href="http://www.stat.ucla.edu/~ywu/"> Dr. Ying Nian Wu </a>, studying automated machine learning and deep learning methods. 
