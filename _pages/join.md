@@ -72,12 +72,13 @@ We are recruiting data scientists who are interested in working in a highly coll
 The responsibility of a scientist is to manage the data for assigned research studies and 
 support our research activities. 
  
-We provide a variety of projects and candidate will work on one of the following directions: 
-- Automated machine learning method development
+We provide a variety of projects and candidate will work on *one of the following* directions: 
+- Machine learning method development
 - High-throughput sequencing data analysis
 - Construction of biomedical and clinical knowledge graph
 
-Ideal candidates should have a background in bioinformatics, statistics, or computer science. 
+Ideal candidates should have a background in bioinformatics, statistics, or computer science.
+Minimum degree requirement is Bachelor; Master's degree is preferred but not required.
 
 Please email your CV to **{{ page.contact }}** if interested.
 
