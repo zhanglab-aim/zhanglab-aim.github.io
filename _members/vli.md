@@ -17,7 +17,7 @@ profile:
     name: Victoria Li
     align: right
     image: members/vli-profile.jpg
-    position: High-school intern
+    position: High-school intern. Now undergrad at Harvard University.
     email: victoriali2012@gmail.com 
     github: vli31
     address: Hunter College High School, New York, NY.

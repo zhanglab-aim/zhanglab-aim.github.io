@@ -2,8 +2,7 @@
 layout: page
 permalink: /team
 title: team
-description: >
- <h5 style='color:blue'>We are a new research group starting in September 2022. Go to <a href='/join'>join</a> page for open positions!</h5><br/>
+description:
 nav: true
 nav_rank: 2
 ---
