@@ -8,7 +8,7 @@ team_frontpage: true
 title: Zhang, Zijun Frank, PhD
 description: Principal Investigator
 lastname: Zhang
-publications: 'author^=*Zhang'
+publications: 'author^=*Zijun'
 
 teaser: >
     Faculty of AI in Medicine at Cedars-Sinai.
@@ -21,6 +21,7 @@ profile:
     email: zijun.zhang@cshs.org
     website: https://zj-zhang.github.io/
     github: zj-zhang
+    twitter: ZijunZhang_
     address: >
         Division of Artificial Intelligence in Medicine<br />
         Cedars-Sinai Medical Center<br />
