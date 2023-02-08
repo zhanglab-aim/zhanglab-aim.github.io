@@ -8,6 +8,8 @@ team_frontpage: true
 title: Chatzianastasis, Michail
 description:
 lastname: Chatzianastasis
+publications: 'author^=*Chatzianastasis'
+
 
 teaser:
 

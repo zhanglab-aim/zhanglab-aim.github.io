@@ -2,7 +2,7 @@
 layout: page
 permalink: /join
 title: join
-nav: true
+nav: false
 nav_rank: 6
 contact: zijun.zhang@cshs.org
 ---

@@ -152,6 +152,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-darwin-22
 
 DEPENDENCIES
   htmlbeautifier
@@ -173,4 +174,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.7
+   2.4.6
