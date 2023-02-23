@@ -10,22 +10,21 @@ contact: zijun.zhang@cshs.org
 We are looking for motivated students and staff scientists at all levels with interests in 
 computational biology and machine learning.
 
-At the moment, positions of [postdocotral fellow](#postdoc), [data scientist](#data-scientist), [undergraduate student](#undergraduate-student) are available.
+At the moment, positions of [postdocotral fellow](#postdoc), [undergraduate student](#undergraduate-student) are available.
 
-<!--
 We also welcome talented [high school intern](#high-school-intern) interested in doing independent research to 
 compete for national science competitions, such as 
 [Regeneron Science Talent Search (RSTS)](https://www.societyforscience.org/regeneron-sts/) and 
 [International Science and Engineering Fair (ISEF)](https://www.societyforscience.org/isef/).
--->
+
 
 **Open Positions:**
 - [Postdoctoral Fellow](#postdoc)
-- [Data Scientist](#data-scientist)
 - [Undergraduate Student](#undergraduate-student)
+- [High-School Intern](#high-school-intern)
 
 <!--
-- [High-School Intern](#high-school-intern)
+- [Data Scientist](#data-scientist)
 -->
 
 <br />
@@ -64,8 +63,9 @@ Please email your CV, a brief description of your previous work and your future 
 
 ---
 
+<!--
 <a id="data-scientist"></a>
-#### Data Scientist
+#### Data Scientist [full]
 
 We are recruiting data scientists who are interested in working in a highly collaborative academic and clinical
  research environment. 
@@ -83,6 +83,8 @@ Minimum degree requirement is Bachelor; Master's degree is preferred but not req
 Please email your CV to **{{ page.contact }}** if interested.
 
 ---
+-->
+
 
 <a id="undergraduate-student"></a>
 #### Undergraduate Student
@@ -110,7 +112,6 @@ competitions ([Top 40 National Finalists in Regeneron STS 2022](https://www.soci
 
 The high school intern positions are currently filled. Please check back later.
 
-<!--
 We will design independent research projects for high-school interns aiming to compete in national science competitions, 
 with opportunities to publish first-author papers in top journals, and present their own work at prestigious
 international academic conferences, similar to undergraduates and graduent students.
@@ -118,4 +119,4 @@ international academic conferences, similar to undergraduates and graduent stude
 *Remote and hybrid working options are possible due to the computational nature of our work.*
 
 Please contact **{{ page.contact }}** to discuss research opportunities.
--->
+
