@@ -8,7 +8,7 @@ team_frontpage: true
 title: Zhang, Zijun Frank, PhD
 description: Principal Investigator
 lastname: Zhang
-publications: 'author^=*Zijun'
+#publications: 'author^=*Zijun'
 
 teaser: >
     Faculty of AI in Medicine at Cedars-Sinai.

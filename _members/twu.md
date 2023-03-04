@@ -5,7 +5,7 @@ group: Member
 group_rank: 2
 team_frontpage: true
 
-title: Wu, Tinghui
+title: Wu, Tinghui, MS
 description:
 lastname: Wu
 publications: 'author^=*Tinghui'
@@ -14,7 +14,7 @@ publications: 'author^=*Tinghui'
 teaser:
 
 profile:
-    name: Tinghui Wu
+    name: Tinghui Wu, MS
     align: right
     image: members/twu-profile.jpg
     position: Clinical Research Data Specialist
