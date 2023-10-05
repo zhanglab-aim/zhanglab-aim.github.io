@@ -11,7 +11,7 @@ lastname: Zhang
 #publications: 'author^=*Zijun'
 
 teaser: >
-    Faculty of AI in Medicine at Cedars-Sinai.
+    Assistant Professor of AI in Medicine at Cedars-Sinai.
 
 profile:
     name: Zijun Zhang, PhD

@@ -1,5 +1,5 @@
 "Zhang":
-  - firstname: ["Zijun", "Z", "Z J"]
+  - firstname: ["Zijun", "Z", "Z J", "Frank Zijun", "Zijun Frank"]
     url: /members/fzzhang
 
 "Gou":
@@ -14,3 +14,7 @@
 "Chatzianastasis":
   - firstname: ["Michail"]
     url: /members/mchatzianastasis
+
+"Wu":
+  - firstname: ["Tinghui", "Ting-Hui"]
+    url: /members/twu
