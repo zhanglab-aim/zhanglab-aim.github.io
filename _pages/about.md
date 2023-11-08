@@ -27,7 +27,7 @@ Currently the primary research interests include:
     development with modern deep learning. These automated, data-driven models help us
     understand the causal effects of genetic variations in various contexts, including 
     <a href="https://www.nature.com/articles/s42256-021-00316-z" target=_blank>epigenetics</a>, 
-    <a href="#">transcription</a>, 
+    <a href="https://nips.cc/virtual/2023/75771" target=_blank>transcription</a>, 
     <a href="https://academic.oup.com/bioinformatics/article/37/Supplement_1/i342/6319668" target=_blank>genome editing</a>, 
     and in tumors.
     In the long term, we hope our methods will democratize deep learning and thereby accelerate scientific discoveries in biomedicine.
@@ -36,7 +36,7 @@ Currently the primary research interests include:
 
     We also study the molecular mechanisms that mediate the genetic effects to phenotypical variations and disease
     prognostics. Enabled by high-throughput sequencing technologies, we characterize the variation of 
-    <a href="#" target=_blank>RNA expression</a>, 
+    <a href="https://nips.cc/virtual/2023/75771" target=_blank>RNA expression</a>, 
     <a href="https://www.nature.com/articles/s41592-019-0351-9" target=_blank>RNA splicing</a>, 
     <a href="https://academic.oup.com/nar/article/45/16/9260/4077049" target=_blank>RNA-protein interactions</a>,
     and 

@@ -36,9 +36,11 @@ layout: default
 
           {% if page.news -%}
           <!-- News -->
-          {%- include news.html %}
-          {%- endif %}
-          {% if page.selected_papers -%}
+          {% if page.news -%}
+            <h2>Recent News<div style="font-style: italic; font-size: 1.25rem; display: inline;"><a href="{{ '/news/' | relative_url }}">(see all)</a></div></h2>
+            {%- include news.html %}
+          {%- endif %i} 
+	  {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
