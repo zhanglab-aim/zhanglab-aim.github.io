@@ -7,7 +7,7 @@ nav: true
 nav_rank: 2
 ---
 
-Check out the [join](/join) page for open positions.
+<span style="color:red">Hiring!</span> Postdoc Scientists. Check out the [JOIN](/join) page for open positions.
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}

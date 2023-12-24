@@ -2,7 +2,7 @@
 layout: page
 permalink: /teach
 title: teaching
-nav: true
+nav: false
 nav_rank: 6
 contact: zijun.zhang@cshs.org
 ---

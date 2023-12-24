@@ -2,7 +2,7 @@
 layout: forward
 title: handbook
 permalink: /handbook
-nav: true
+nav: false
 nav_rank: 7
 target: https://zhanglab-aim.gitbook.io/labwiki/
 targetname: Zhang Lab Wiki

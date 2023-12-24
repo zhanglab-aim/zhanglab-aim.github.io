@@ -5,13 +5,14 @@ Our lab webpage is supported by [Jekyll](https://jekyllrb.com/) with a template 
 
 You can go to Jekyll's official site to install it first. Depending on your Operating System, this may be different. See the Installation Guide for Jekyll [here](https://jekyllrb.com/docs/installation/).
 
-You may run into error messages saying certain Jekyll Plugins are missing (e.g. jekyll-pagination). These can be installed individually on your local machine by Ruby.
+You will also need Imagemagick for image conversion to enable across-device compatibility. On MacOS, install by `brew install imagemagick`.
 
 Once you have working Jekyll, use the following command-lines:
 ```
 git clone git@github.com:zhanglab-aim/zhanglab-aim.github.io.git
 cd zhanglab-aim.github.io
-jekyll serve .
+bundle install # this will install all required dependencies
+bundle exec jekyll serve .
 ```
 
 Then go to `localhost:4000` in your browser. Viola!

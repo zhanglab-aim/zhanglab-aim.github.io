@@ -1,8 +1,8 @@
 ---
 layout: member
 inline: false
-group: Member
-group_rank: 2
+group: Alumni
+group_rank: 5
 team_frontpage: true
 
 title: Chatzianastasis, Michail
