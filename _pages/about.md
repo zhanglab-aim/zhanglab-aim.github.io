@@ -3,7 +3,7 @@ layout: about
 title: home
 permalink: /
 nav_rank: 1
-subtitle: <a href='https://www.cedars-sinai.edu/research/areas/artificial-intelligence-medicine.html'>Division of Artificial Intelligence in Medicine at Cedars-Sinai</a>. 116 N. Robertson Blvd. Los Angeles, CA 90048.
+subtitle: <a href='https://www.cedars-sinai.edu/research/areas/artificial-intelligence-medicine.html'>Division of Artificial Intelligence in Medicine at Cedars-Sinai</a>. 6500 Wilshire Blvd, Los Angeles, CA 90048.
 
 profile:
   align: right
