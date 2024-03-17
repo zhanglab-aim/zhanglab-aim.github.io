@@ -8,6 +8,7 @@ team_frontpage: true
 title: Honig, Edouardo
 description:
 lastname: Honig
+publications: 'author^=*Edouardo'
 
 teaser:
 

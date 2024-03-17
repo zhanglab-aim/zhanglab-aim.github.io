@@ -1,8 +1,8 @@
 ---
 layout: member
 inline: false
-group: Member
-group_rank: 2
+group: Alumni
+group_rank: 5
 team_frontpage: true
 
 title: Ling, Justin W, MD, MS
@@ -15,7 +15,7 @@ profile:
     name: Justin Ling, MD, MS
     align: right
     image: members/jling-profile.jpg
-    position: Clinical Research Data Specialist
+    position: Clinical Research Data Specialist. Now Clinical Informaticist at UCI.
     email: Justin.Ling@cshs.org 
     website: https://justinwling.com
     github: justinwling

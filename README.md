@@ -88,7 +88,7 @@ nav_rank: 4
 
 
 #### Troubleshooting
-- If the co-authors are not listed properly (say, underscored and hyperlinked), you should go to `_data/coauhorts.yml` and update this yaml file.
+- If the co-authors are not listed properly (say, underscored and hyperlinked), you should go to `_data/coauthors.yml` and update this yaml file.
 - If the publications are not listed properly in Team page, you should go to `_members/person.md` and update the `publication:` entry in markdown file.
 
 ### 3.3 Update your information
