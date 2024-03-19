@@ -15,7 +15,7 @@ profile:
     name: Justin Ling, MD, MS
     align: right
     image: members/jling-profile.jpg
-    position: Clinical Research Data Specialist. Now Clinical Informaticist at UCI.
+    position: Clinical Research Data Specialist (Nov.2022—Jan.2024) <br /> Now Clinical Informaticist at UCI.
     email: Justin.Ling@cshs.org 
     website: https://justinwling.com
     github: justinwling

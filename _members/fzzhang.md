@@ -11,7 +11,9 @@ lastname: Zhang
 #publications: 'author^=*Zijun'
 
 teaser: >
-    Assistant Professor of AI in Medicine at Cedars-Sinai.
+    Assistant Professor. <br />
+    Division of AI in Medicine, Department of Medicine. Cedars-Sinai <br />
+    Department of Computational Biomedicine. Cedars-Sinai
 
 profile:
     name: Zijun Zhang, PhD
@@ -23,12 +25,11 @@ profile:
     github: zj-zhang
     twitter: ZijunZhang_
     address: >
-        Division of Artificial Intelligence in Medicine<br />
-        Cedars-Sinai Medical Center<br />
+        6500 Wilshire Blvd. <br />
         Los Angeles, CA 90048
 ---
 
-I am a faculty member in the Division of Artificial Intelligence in Medicine at the Cedars-Sinai Medical 
+I am a faculty member in the Division of AI in Medicine, Department of Medicine, and the Department of Computational Biomedicine at Cedars-Sinai Medical 
 Center. 
 
 I enjoy exploring the uncharted areas with talented next generations of scientists. 

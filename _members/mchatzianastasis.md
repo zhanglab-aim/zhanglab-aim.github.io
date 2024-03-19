@@ -17,7 +17,7 @@ profile:
     name: Michail Chatzianastasis
     align: right
     image: members/mchatzianastasis-profile.jpg
-    position: Visiting Graduate Student
+    position: Visiting Graduate Student (Aug.2022—Nov.2023)
     email: mixalisx97@gmail.com
     website: https://michailchatzianastasis.github.io/
     github: MichailChatzianastasis
