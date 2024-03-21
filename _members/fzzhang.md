@@ -11,7 +11,6 @@ lastname: Zhang
 #publications: 'author^=*Zijun'
 
 teaser: >
-    Assistant Professor. <br />
     Division of AI in Medicine, Department of Medicine. Cedars-Sinai <br />
     Department of Computational Biomedicine. Cedars-Sinai
 
@@ -19,7 +18,7 @@ profile:
     name: Zijun Zhang, PhD
     align: right
     image: members/fzz-profile.jpg
-    position: Principal Investigator
+    position: Assistant Professor; Principal Investigator
     email: zijun.zhang@cshs.org
     website: https://zj-zhang.github.io/
     github: zj-zhang
